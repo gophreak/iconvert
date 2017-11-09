@@ -11,7 +11,7 @@ Download the package using glide by adding the following into your glide.yaml fi
 
 ```
 import:
-- package: github.com:gophreak/iconvert
+- package: github.com/gophreak/iconvert
   repo: git@github.com:gophreak/iconvert.git
   vcs: git
 ```
