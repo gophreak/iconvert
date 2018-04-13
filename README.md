@@ -10,16 +10,7 @@ Converts from an interface into one of the supported native go types:
 
 ## Getting started
 
-Download the package using glide by adding the following into your glide.yaml file
-
-```go
-import:
-- package: github.com/gophreak/iconvert
-  repo: git@github.com:gophreak/iconvert.git
-  vcs: git
-```
-
-Then run `glide up -v` to install the package.
+Add package using dep, run this command: `dep ensure -add github.com/gophreak/iconvert` to install the package.
 
 ## Using the package
 
