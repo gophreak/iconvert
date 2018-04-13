@@ -1,5 +1,7 @@
 # iconvert
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/gophreak/iconvert)](https://goreportcard.com/report/github.com/gophreak/iconvert)
+
 Converts from an interface into one of the supported native go types:
 
 * String
