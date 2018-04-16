@@ -47,6 +47,7 @@ func ToFloat(value interface{}) (v float64, e error) {
 	return
 }
 
+// ToInt converts an interface value to a int64, returns error if cannot handle the type of interface.
 func ToInt(value interface{}) (v int64, e error) {
 	switch value.(type) {
 	case string:
